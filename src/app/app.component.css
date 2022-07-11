@@ -1,0 +1,17 @@
+.container {
+  padding: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.form-element {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  width: 30%;
+}
+
+.form-section {
+  display: flex;
+  flex-direction: row;
+}
